@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "620378041867",
+    "firebase_url": "https://alunos-560b9.firebaseio.com",
+    "project_id": "alunos-560b9",
+    "storage_bucket": "alunos-560b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620378041867:android:cd5da429344f5d4245e10e",
+        "android_client_info": {
+          "package_name": "br.alunos.unigran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620378041867-1987jfd7rl3704fegv1h10oaktcmdlg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE7r6nubnEZ80JDtiyMWH-8xSySv5s02U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620378041867-1987jfd7rl3704fegv1h10oaktcmdlg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620378041867:android:3875365d103d78f045e10e",
+        "android_client_info": {
+          "package_name": "br.unigran.alunos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620378041867-1987jfd7rl3704fegv1h10oaktcmdlg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE7r6nubnEZ80JDtiyMWH-8xSySv5s02U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620378041867-1987jfd7rl3704fegv1h10oaktcmdlg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
